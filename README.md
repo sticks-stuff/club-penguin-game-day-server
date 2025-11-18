@@ -47,12 +47,19 @@ HTML Form URL Encoded: application/x-www-form-urlencoded
 ```
 
 `ProductID`: Seems to always be 2
+
 `SessionID`: The MAC address of the Wii
+
 `SVLToken`: The `servicetoken` returned by the `NasServer`
-`Mode`: Seems to always be `"live`
+
+`Mode`: Seems to always be `"live"`
+
 `RequestID`: Is `10` when logging in, and `1` when uploading coins.
+
 `Username`: The players username, in plaintext
+
 `Password`: The password, in plaintext
+
 `ItemData`: The items got. A `1` indicates the item has been obtained, and a `0` indicates it has not. Joined with underscores in-between, it is always 38 numbers:
 
 	00 = Red Mohawk
@@ -103,6 +110,7 @@ HTML Form URL Encoded: application/x-www-form-urlencoded
 	37 = Color aqua item
 
 `ProgressionData`: Not sure yet
+
 `HiScoreData`: The players high score in each game, as an int, joined by underscores. It is always 69 numbers:
 
 	00 = Feed A Puffle (Free for All) (Easy)
