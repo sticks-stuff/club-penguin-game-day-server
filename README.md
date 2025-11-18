@@ -218,52 +218,52 @@ The values are as follows:
 
 Values 01 - 38 are items:
 
-01 = Red Mohawk
-02 = Blue Ball Cap
-03 = Green Propeller Cap
-04 = Gold Viking Helmet
+	01 = Red Mohawk
+	02 = Blue Ball Cap
+	03 = Green Propeller Cap
+	04 = Gold Viking Helmet
 
-05 = Red Face Paint
-06 = Blue Face Paint
-07 = Green Face Paint
-08 = Yellow Face Paint
+	05 = Red Face Paint
+	06 = Blue Face Paint
+	07 = Green Face Paint
+	08 = Yellow Face Paint
 
-09 = Gold Medal
-10 = Silver Whistle
+	09 = Gold Medal
+	10 = Silver Whistle
 
-11 = Red Hockey Jersey
-12 = Blue Hockey Jersey
-13 = Green Hockey Jersey
-14 = Yellow Hockey Jersey
+	11 = Red Hockey Jersey
+	12 = Blue Hockey Jersey
+	13 = Green Hockey Jersey
+	14 = Yellow Hockey Jersey
 
-15 = Red Cheerleader Outfit
-16 = Blue Cheerleader Outfit
-17 = Green Cheerleader Outfit
-18 = Yellow Cheerleader Outfit
+	15 = Red Cheerleader Outfit
+	16 = Blue Cheerleader Outfit
+	17 = Green Cheerleader Outfit
+	18 = Yellow Cheerleader Outfit
 
-19 = Referee Jersey
+	19 = Referee Jersey
 
-20 = White Pompoms
+	20 = White Pompoms
 
-21 = Red Sneakers
-22 = Blue Sneakers
-23 = Green Sneakers
-24 = Yellow Sneakers
+	21 = Red Sneakers
+	22 = Blue Sneakers
+	23 = Green Sneakers
+	24 = Yellow Sneakers
 
-25 = Color blue item
-26 = Color green item
-27 = Color pink item
-28 = Color black item
-29 = Color yellow item
-30 = Color purple item
-31 = Color brown item
-32 = Color peach item
-33 = Color red item
-34 = Color orange item
-35 = Color dark green item
-36 = Color light blue item
-37 = Color lime item
-38 = Color aqua item
+	25 = Color blue item
+	26 = Color green item
+	27 = Color pink item
+	28 = Color black item
+	29 = Color yellow item
+	30 = Color purple item
+	31 = Color brown item
+	32 = Color peach item
+	33 = Color red item
+	34 = Color orange item
+	35 = Color dark green item
+	36 = Color light blue item
+	37 = Color lime item
+	38 = Color aqua item
 
 39 - 58 = Unused?
 - Setting these all to 1, then resyncing doesn't change the submit post request, but setting them all to one does produce a different save file saved onto the Wiimote then one that's synced with all `0`'s, but I'm not sure if thats related.
